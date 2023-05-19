@@ -1,25 +1,30 @@
 # 👨‍💻 Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+**Teaching Assistant** @ [San Francisco State University] _(Jan 2023 - Present)_
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
-- Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
+- Responsible for grading assignements and doubt solving for CSC 510(Analysis of Algorithms), CSC 220 (Data Structures) and CSC 600(Programming Paradigms).
+
+&nbsp; 
+
+**Discussion Leader** @ [San Francisco State University] _(August 2022 - Dec 2022)_
+
+- Mentored 15+ students for Intro to Machine Learning course by conducting 3-hour weekly sessions in which I help with their
+doubts and assignments.
+
+&nbsp; 
+
+**Research Assistant** @ [San Francisco State University](Youdescribe.org) _(June 2022 - Dec 2022)_
+
+- Worked on improving the architecture and accuracy to generate better image-caption pairs.
+- Workied on improving the model by adopting the transformer architecture.
 
 &nbsp;
 
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
+**Software Engineer Intern** @ [Quark Software Inc.](https://www.quark.com/) _(January 2021 - June 2021)_
 
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
-- Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
-
-&nbsp;
-
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
-
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
+- Utilized DevOps activities for deploying Quark Publishing Platform (QPP) on AWS EC2.
+- Worked on adding S3 buckets along with defining ACLs and IAM policies for the application running in ECS.
+- Enhanced usability and stability of QuarkXPress which reduced application crashes by 10%. i.e., Quark’s Flagship Product.
+- Scrum team member of 6 engineers to develop features and handle critical fixes in C++.
+- Worked with the engineering team on the Composition Zone feature which allows the user to add images and text boxes in
+the zone using C++ in 2 months.

@@ -1,32 +1,43 @@
 # 💻 Skills
 
 ## General Tech Stacks
-- Architecture Design
-- Desktop App Development
 - Web Development (Frontend & Backend)
+- Machine Learning
+- System Design
 
 ## Programming languages
-- C# .NET
+- C
+- C++
 - Python
 - JavaScript/TypeScript
-  - React.js
-- T-SQL
-- Go
-- C++
+- SQL
 - Java
-- VB.NET/VBA
+- Matlab
+- HTML
+- CSS
 
 ## Databases
-- MSSQL
-- PostgreSQL
 - MySQL
 - SQLite
+- MongoDB
+
+## Libraries and Frameworks
+- Pandas
+- Numpy
+- NodeJS
+- ExpressJS
+- ReactJS
+- Tensorflow
+- Matplotlib
+- Scikit-learn
 
 ## Cloud
-- Azure
+- AWS
 - GCP
-- Heroku
-- Render
 
-## Vcs
-- Git
+## Tools
+- GIT
+- VScode
+- Kubernetes
+- Docker
+- Postman

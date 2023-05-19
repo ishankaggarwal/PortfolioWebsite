@@ -7,82 +7,99 @@ Senior Software Developer specializing in web application development. Experienc
 
 ## Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+**Teaching Assistant** @ [San Francisco State University] _(Jan 2023 - Present)_
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
-- Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
+- Responsible for grading assignements and doubt solving for CSC 510(Analysis of Algorithms), CSC 220 (Data Structures) and CSC 600(Programming Paradigms).
+
+&nbsp; 
+
+**Discussion Leader** @ [San Francisco State University] _(August 2022 - Dec 2022)_
+
+- Mentored 15+ students for Intro to Machine Learning course by conducting 3-hour weekly sessions in which I help with their
+doubts and assignments.
+
+&nbsp; 
+
+**Research Assistant** @ [San Francisco State University](Youdescribe.org) _(June 2022 - Dec 2022)_
+
+- Worked on improving the architecture and accuracy to generate better image-caption pairs.
+- Workied on improving the model by adopting the transformer architecture.
 
 &nbsp;
 
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
+**Software Engineer Intern** @ [Quark Software Inc.](https://www.quark.com/) _(January 2021 - June 2021)_
 
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
-- Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
-
-&nbsp;
-
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
-
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
+- Utilized DevOps activities for deploying Quark Publishing Platform (QPP) on AWS EC2.
+- Worked on adding S3 buckets along with defining ACLs and IAM policies for the application running in ECS.
+- Enhanced usability and stability of QuarkXPress which reduced application crashes by 10%. i.e., Quark’s Flagship Product.
+- Scrum team member of 6 engineers to develop features and handle critical fixes in C++.
+- Worked with the engineering team on the Composition Zone feature which allows the user to add images and text boxes in
+the zone using C++ in 2 months.
 
 ## Education
 
-`2021-2022` [National Taipei University of Technology](https://www-en.ntut.edu.tw/)
-- **Extension program** in Computer Science, Electrical Engineering, and Electronic Engineering
-- Courses: Computer Organization, Discrete Mathematics, Computer Program-
-ming(I), Object-Oriented Programming, Probability, Digital Logic Design
-- GPA: 4.0/4.0
+`2021-present` [San Francisco State University]
+- **M.S.** in Computer Science
+- Courses: Artificial Intelligence Ethics, Software Engineering, Database Systems, Analysis of Algorithms II,
+Advanced Computer Networks, Soft Computing, Data Visualization, Human Computer Interaction
+- GPA: 3.73/4.0
 
-`2021-2022` [National Taiwan Normal University](https://en.ntnu.edu.tw/)
-- **Extension program** in Electrical Engineering
-- Courses: Operating Systems
-- GPA: 4.3/4.3
-
-`2020–2022` [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
-- **Extension program** in Software Engineering and Digital Innovation Applications, and Information Management 
-- Courses: Algorithms, Linear Algebra, Database Administration
-- GPA: 4.0/4.0
-
-`2020-2021` [National Taipei University of Business](https://www.ntub.edu.tw/index.php?Lang=en)
-- **Extension program** in Information Management 
-- Courses: Data Structures
-- GPA: 4.0/4.0
-
-`2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
-- **B.B.A** in Accountancy
-- GPA: 3.88/4.0
+`2017-2021` [Panjab University, Chandigarh]
+- **BTech** in Computer Science
+- Courses: Data Structures and Algorithms, Artificial Intelligence, Database Systems, Operating Systems, Computer Networks, Web Technologies, Data Mining
+- GPA: 3.3/4.0
 
 ## Skills
-
 ### General Tech Stacks
-- Architecture Design
-- Desktop App Development
 - Web Development (Frontend & Backend)
+- Machine Learning
+- System Design
 
 ### Programming languages
-- C# .NET
+- C
+- C++
 - Python
 - JavaScript/TypeScript
-  - React.js
-- T-SQL
-- Go
-- C++
+- SQL
 - Java
-- VB.NET/VBA
+- Matlab
+- HTML
+- CSS
+
+### Databases
+- MySQL
+- SQLite
+- MongoDB
+
+### Libraries and Frameworks
+- Pandas
+- Numpy
+- NodeJS
+- ExpressJS
+- ReactJS
+- Tensorflow
+- Matplotlib
+- Scikit-learn
+
+### Cloud
+- AWS
+- GCP
+
+### Tools
+- GIT
+- VScode
+- Kubernetes
+- Docker
+- Postman
 
 ## Certificates
-- Certified Public Accountant (Taiwan)
 
-## Accomplishments
-**Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them. 
+- Certification in “AWS Cloud Practitioner Essentials” offered by Coursera.
+- Certification in “Machine Learning A-Z™: Hands-On Python & R In Data Science” offered by Udemy.
+- Certification in “Neural Networks and Deep Learning” from Coursera.
+- Secured 97 percentile in JEE Mains 2017 among 1.1 million students.
 
 ## Languages
-**English**: C1
-**Chinese**: Native
+**English**: FLuent
+**Hindi**: Native
+**Punjabi**: Fluent
