@@ -1,15 +1,5 @@
 <div id="top"></div>
 
-<!-- PROJECT SHIELDS -->
-[![gh-pages-shield]][gh-pages-url]
-[![website-shield]][website-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -58,8 +48,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://ishankaggarwal.dev/)
 
 The project is inspired by [Visual Studio Code](https://github.com/microsoft/vscode) and [caglarturali.github.io](https://github.com/caglarturali/caglarturali.github.io). The pages of the portfolio are powered by `markdown`, which make them easy to modify or add your own contents.
 
@@ -138,7 +126,8 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
 ## Demonstration
 
 - The project is deployed to following two domains, and they are in synchronization.
-  - user site: [https://ishankaggarwal.dev](https://ishankaggarwal.netlify.app)
+  - user site: [https://ishankaggarwal.dev](https://ishankaggarwal.dev)
+  - [https://ishankaggarwal.netlify.app](https://ishankaggarwal.netlify.app)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
