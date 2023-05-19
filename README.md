@@ -22,15 +22,8 @@
 
   <p align="center">
     A vscode inspired portfolio project
-    <br />
-    <a href="https://github.com/noworneverev/react-vscode-portfolio/blob/main/README.md"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://noworneverev.github.io/">View Demo</a>
-    ·
-    <a href="https://github.com/noworneverev/react-vscode-portfolio/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/noworneverev/react-vscode-portfolio/issues">Request Feature</a>
+    <br><br />
+    <a href="https://ishankaggarwal.dev/">View Demo</a>
   </p>
 </div>
 
@@ -66,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://noworneverev.github.io/)
+[![Product Name Screen Shot][product-screenshot]](https://ishankaggarwal.dev/)
 
 The project is inspired by [Visual Studio Code](https://github.com/microsoft/vscode) and [caglarturali.github.io](https://github.com/caglarturali/caglarturali.github.io). The pages of the portfolio are powered by `markdown`, which make them easy to modify or add your own contents.
 
@@ -87,9 +80,7 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
 ### Installation
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/noworneverev/react-vscode-portfolio.git
-   ```
+   
 2. Install NPM packages
    ```sh
    npm install
@@ -147,8 +138,7 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
 ## Demonstration
 
 - The project is deployed to following two domains, and they are in synchronization.
-  - user site: [https://noworneverev.github.io/](https://noworneverev.github.io/)
-  - project site: [https://noworneverev.github.io/react-vscode-portfolio/](https://noworneverev.github.io/react-vscode-portfolio/)
+  - user site: [https://ishankaggarwal.dev](https://ishankaggarwal.netlify.app)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -173,18 +163,6 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- CONTACT -->
-## Contact
-
-Yan-Ying Liao - [Personal Portfolio](https://noworneverev.github.io/) - n9102125@gmail.com
-
-Project Link: [https://github.com/noworneverev/react-vscode-portfolio](https://github.com/noworneverev/react-vscode-portfolio)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
@@ -197,18 +175,5 @@ Project Link: [https://github.com/noworneverev/react-vscode-portfolio](https://g
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/noworneverev/react-vscode-portfolio
-[forks-url]: https://github.com/noworneverev/react-vscode-portfolio/network/members
-[stars-shield]: https://img.shields.io/github/stars/noworneverev/react-vscode-portfolio
-[stars-url]: https://github.com/noworneverev/react-vscode-portfolio/stargazers
-[issues-shield]: https://img.shields.io/github/issues/noworneverev/react-vscode-portfolio
-[issues-url]: https://github.com/noworneverev/react-vscode-portfolio/issues
-[license-shield]: https://img.shields.io/github/license/noworneverev/react-vscode-portfolio
-[license-url]: https://github.com/noworneverev/react-vscode-portfolio/blob/master/LICENSE.md
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/yan-ying-liao/
 [product-screenshot]: ./src/static/screenshot.gif
-[gh-pages-shield]: https://img.shields.io/github/deployments/noworneverev/noworneverev.github.io/github-pages
-[gh-pages-url]: https://github.com/noworneverev/noworneverev.github.io/deployments
-[website-shield]:https://img.shields.io/website?url=https%3A%2F%2Fnoworneverev.github.io%2F
-[website-url]: https://noworneverev.github.io/
+[website-url]: https://ishankaggarwal.dev/
