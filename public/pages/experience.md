@@ -1,10 +1,16 @@
-# 👨‍💻 Experience
+## Experience
 
-**Teaching Assistant** @ [San Francisco State University] _(Jan 2023 - Present)_
+**Member Board of Directors, Associated Students**@ [San Francisco State University]	 _(June 2023 – Ongoing)_
+- Elected by the students at San Francisco State University through a democratic election process to serve as the graduate representative. In this role, I advocate for the needs and concerns of all graduate students, effectively communicating and representing their interests to the university administration and faculty.
 
-- Responsible for grading assignements and doubt solving for CSC 510(Analysis of Algorithms), CSC 220 (Data Structures) and CSC 600(Programming Paradigms).
+&nbsp;
 
-&nbsp; 
+**Teaching Assistant**@ [San Francisco State University] _(Jan 2023 - Ongoing)_                        
+-	Teaching assistant for CSC 510(Analysis of Algorithms), CSC 220(Data Structures) and CSC 600(Programming Paradigms). 
+-	Utilized JUnit to create robust unit test cases for code validation for CSC 220 grading.
+-	Graded assignments and provided constructive feedback to the students. Also, held office hours to provide one-on-one assistance to the students with the coursework.
+
+&nbsp;
 
 **Discussion Leader** @ [San Francisco State University] _(August 2022 - Dec 2022)_
 

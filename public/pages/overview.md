@@ -2,16 +2,20 @@
 
 ## Summary
 
-Senior Software Developer specializing in web application development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C# .NET, Python and JavaScript/TypeScript. Strong background in both accounting/auditing and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
+Experienced software engineer with a strong background in designing and developing innovative solutions. Proficient in multiple programming languages and frameworks, with a keen eye for optimizing code efficiency. Demonstrated ability to collaborate effectively within cross-functional teams and deliver high-quality products within deadlines. Committed to staying up-to-date with emerging technologies and trends in the industry. Seeking challenging full-time opportunities to apply my expertise and contribute to the success of a dynamic organization.
 
 
 ## Experience
 
-**Teaching Assistant** @ [San Francisco State University] _(Jan 2023 - Present)_
+**Member Board of Directors, Associated Students**@ [San Francisco State University]	 _(June 2023 – Ongoing)_
+- Elected by the students at San Francisco State University through a democratic election process to serve as the graduate representative. In this role, I advocate for the needs and concerns of all graduate students, effectively communicating and representing their interests to the university administration and faculty.
 
-- Responsible for grading assignements and doubt solving for CSC 510(Analysis of Algorithms), CSC 220 (Data Structures) and CSC 600(Programming Paradigms).
 
-&nbsp; 
+**Teaching Assistant**@ [San Francisco State University] _(Jan 2023 - Ongoing)_                        
+-	Teaching assistant for CSC 510(Analysis of Algorithms), CSC 220(Data Structures) and CSC 600(Programming Paradigms). 
+-	Utilized JUnit to create robust unit test cases for code validation for CSC 220 grading.
+-	Graded assignments and provided constructive feedback to the students. Also, held office hours to provide one-on-one assistance to the students with the coursework.
+
 
 **Discussion Leader** @ [San Francisco State University] _(August 2022 - Dec 2022)_
 
